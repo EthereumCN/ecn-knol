@@ -11,9 +11,9 @@ module.exports = {
     siteLocale: `zh-cn`,
   },
   plugins: [
-    `gatsby-plugin-offline`,
+     `gatsby-plugin-minify-html`,
+    `gatsby-plugin-brotli`,
     `gatsby-plugin-material-ui`,
-    `gatsby-plugin-netlify-cms`,
     `gatsby-plugin-chakra-ui`,
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-json`,
