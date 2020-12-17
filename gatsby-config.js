@@ -12,7 +12,6 @@ module.exports = {
   },
   plugins: [
      `gatsby-plugin-minify-html`,
-    `gatsby-plugin-brotli`,
     `gatsby-plugin-material-ui`,
     `gatsby-plugin-chakra-ui`,
     `gatsby-plugin-react-helmet`,
