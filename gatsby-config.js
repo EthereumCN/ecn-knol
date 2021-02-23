@@ -11,7 +11,6 @@ module.exports = {
     siteLocale: `zh-cn`,
   },
   plugins: [
-     `gatsby-plugin-minify-html`,
     `gatsby-plugin-material-ui`,
     `gatsby-plugin-chakra-ui`,
     `gatsby-plugin-react-helmet`,
